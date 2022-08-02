@@ -20,5 +20,10 @@ public class Demo {
 		System.out.println("aug 2")
 		
 	}
+	public void m5()
+	{
+	System.out.println("its punam...");
+
+	}
 
 }
