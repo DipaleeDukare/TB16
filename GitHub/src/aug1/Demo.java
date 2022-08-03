@@ -11,6 +11,8 @@ public class Demo {
 	{
 	System.out.println("patil");
 			System.out.println("dipalee");
+					System.out.println("dipalee");
+
 
 
 	}
