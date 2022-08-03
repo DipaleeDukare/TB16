@@ -9,7 +9,9 @@ public class Demo {
 	
 	public void m2()
 	{
-	System.out.println("Pritam");
+	System.out.println("patil");
+			System.out.println("dipalee");
+
 
 	}
 	
