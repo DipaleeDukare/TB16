@@ -11,7 +11,7 @@ public class Demo {
 	{
 	System.out.println("patil");
 			System.out.println("dipalee");
-
+         int a=10;
 
 	}
 	
