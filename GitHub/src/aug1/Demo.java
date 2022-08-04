@@ -9,7 +9,7 @@ public class Demo {
 	
 	public void m2()
 	{
-	System.out.println("patil");
+	System.out.println("patil34");
 			System.out.println("dipalee");
 					System.out.println("dipalee");
 
